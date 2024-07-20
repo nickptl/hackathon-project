@@ -1,2 +1,2 @@
-# hackathon-project
-first project
+# SignLanguageDetectionUsingML
+SignLanguageDetectionUsingML
